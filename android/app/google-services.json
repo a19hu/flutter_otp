@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829607849782",
+    "project_id": "appotp-aa75e",
+    "storage_bucket": "appotp-aa75e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829607849782:android:c4303637644ab029d58d97",
+        "android_client_info": {
+          "package_name": "com.example.flutterotp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67ePdkixGnBO_8031j7dSqPOzUGCtYS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
